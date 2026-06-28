@@ -15,3 +15,5 @@ Identified top-performing regions and product categories.
 Compared monthly sales and profit trends across different years.
 Analyzed customer purchasing behavior and shipping performance.
 Created an interactive dashboard to support data-driven business decisions.
+
+Snapshot - https://github.com/asmij88-gif/Retail-Business-Performance-Dashboard-/blob/main/Snapshot%20of%20Dashboard..docx
