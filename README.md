@@ -1,2 +1,17 @@
-# Retail_Business_Performance_Dashboard-
-Developed an interactive Power BI dashboard to analyze sales, profit, and order performance. Created KPI cards and visualizations for sales by category, region, payment mode, and ship mode. Built Year-over-Year (YoY) sales and profit trend reports with interactive filters. Used Power Query for data transformation and DAX for calculated measures.
+**Retail Business Performance Dashboard | Power BI**
+
+This project is an interactive Power BI dashboard designed to analyze retail business performance using sales data. It provides key insights into sales, profit, orders, customer segments, regions, categories, payment modes, and shipping performance.
+
+**Key Features**
+Interactive KPI cards for Sales, Profit, Orders, and Ship Days
+Year-over-Year (YoY) Sales and Profit analysis
+Sales analysis by Category, Sub-Category, Region, and State
+Customer Segment and Payment Mode analysis
+Dynamic slicers for regional filtering
+Interactive maps and charts for better business insights
+
+**Key Insights**
+Identified top-performing regions and product categories.
+Compared monthly sales and profit trends across different years.
+Analyzed customer purchasing behavior and shipping performance.
+Created an interactive dashboard to support data-driven business decisions.
